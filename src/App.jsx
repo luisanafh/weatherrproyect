@@ -19,7 +19,7 @@ import {
 } from './assets/images';
 
 const baseUrl = 'https://api.openweathermap.org/data/2.5/weather?';
-const apiKey = '7239f7c18cda67e8981f0208fa8c87';
+const apiKey = '7239f7c18cda67e8981f0208fa8c87dd';
 
 const codes = {
 	thunderstorm: [200, 201, 202, 210, 211, 212, 221, 230, 231, 232],
